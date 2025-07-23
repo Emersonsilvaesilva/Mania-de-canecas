@@ -54,7 +54,7 @@
 </head>
 <body>
   <header>
-    <h1>Mania de Canecas Personalizadas</h1>
+    <h1>Mania de Canecas Oficial</h1>
     <p>Transforme momentos em presentes únicos!</p>
   </header>  <nav>
     <a href="#home">Início</a>
@@ -68,12 +68,12 @@
     <h2>Nossas Canecas</h2>
     <div class="produto">
       <h3>Caneca de porcelana</h3>
-      <p>Personalize com nome, foto ou frase. R$ 29,90</p>
+      <p>Personalize com nome, foto ou frase. R$ 35,00</p>
       <button class="btn">Comprar</button>
     </div>
     <div class="produto">
       <h3>Caneca mágica</h3>
-      <p>Surpreenda com imagem que aparece com líquido quente. R$ 39,90</p>
+      <p>Surpreenda com imagem que aparece com líquido quente. R$ 80,00</p>
       <button class="btn">Comprar</button>
     </div>
     <!-- Adicione mais produtos aqui -->
